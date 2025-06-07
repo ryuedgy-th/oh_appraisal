@@ -23,10 +23,10 @@
     'name': "Open HRMS Employee Appraisal",
     'version':  '18.0.1.0.0',
     'category': 'Human Resources',
-    'summary': """Roll out appraisal plans and get the best of your 
+    'summary': """Roll out appraisal plans and get the best of your
     workforce""",
-    'description': """This app is a powerful and versatile tool that can help 
-    organizations improve their employee appraisal process and boost employee 
+    'description': """This app is a powerful and versatile tool that can help
+    organizations improve their employee appraisal process and boost employee
     performance.""",
     'live_test_url': 'https://www.youtube.com/watch?v=cw4Bs8-SXdY&feature=youtu.be',
     'author': 'Cybrosys Techno solutions,Open HRMS',
